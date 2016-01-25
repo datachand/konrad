@@ -1,0 +1,36 @@
+body {
+	/*padding: 1% 0;*/
+}
+
+.coupon-img {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+.panel {
+	border: 2px solid rgba(0, 0, 0, 1.0);
+}
+
+.panel-heading {
+	background: transparent !important;
+	border-color: rgba(0, 0, 0, 1.0) !important;
+	border-width: 2px;
+}
+
+.panel-title {
+	font-weight: bold;
+}
+
+.dropdown-toggle {
+	color: rgba(0, 0, 0, 1.0);
+}
+
+.panel-footer {
+	display: none;
+}
+
+.common-help-icon {
+	padding: 1%;
+	font-size: 20px;
+}
